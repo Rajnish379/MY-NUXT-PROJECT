@@ -1,0 +1,2 @@
+[{"name":"Product 1", "price": 9.99,"description":"This is product 1", "image_url":"https://example.com/product1.jpg"},
+{"name": "Product 2","price": 10,"description": "This is product 2","image_url": "https://example.com/product2.jpg"}]

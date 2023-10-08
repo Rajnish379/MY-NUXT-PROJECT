@@ -1,4 +1,8 @@
-<script setup>
+<script setup lang="ts">
+// lang attribute should be ts to use this useHead attribute
+useHead({
+    title: "profile page"
+})
 const {sayHello} = useUtils();
 sayHello();
 </script>
